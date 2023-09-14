@@ -1,0 +1,2 @@
+# MyCppCalc
+Calculator in C++
