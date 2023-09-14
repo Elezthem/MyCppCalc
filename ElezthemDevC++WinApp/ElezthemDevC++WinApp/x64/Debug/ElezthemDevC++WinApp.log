@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\hendr\source\repos\ElezthemDevC++WinApp\ElezthemDevC++WinApp\MyForm.h(515,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\hendr\source\repos\ElezthemDevC++WinApp\ElezthemDevC++WinApp\MyForm.h(523,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\hendr\source\repos\ElezthemDevC++WinApp\ElezthemDevC++WinApp\MyForm.h(551,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ElezthemDevC++WinApp.vcxproj -> C:\Users\hendr\source\repos\ElezthemDevC++WinApp\x64\Debug\ElezthemDevC++WinApp.exe

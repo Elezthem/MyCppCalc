@@ -1,0 +1,3 @@
+C:\Users\hendr\source\repos\ElezthemDevC++WinApp\ElezthemDevC++WinApp\x64\Debug\ElezthemDevC++WinApp.vcxproj.AssemblyReference.cache
+C:\Users\hendr\source\repos\ElezthemDevC++WinApp\ElezthemDevC++WinApp\x64\Debug\ElezthemDevCWinApp.MyForm.resources
+C:\Users\hendr\source\repos\ElezthemDevC++WinApp\ElezthemDevC++WinApp\x64\Debug\ElezthemDevC++WinApp.vcxproj.GenerateResource.cache
